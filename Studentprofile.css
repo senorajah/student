@@ -1,0 +1,52 @@
+.coverPhoto{
+    position: absolute;
+    top: 11%;
+    left: 5%;
+    height:20% ;
+    width: 90%;
+
+}
+.sidePanel{ 
+    position: absolute;
+    top: 31%;
+    left: 5%;
+    height:  90%;
+    width: 20%;
+    background-image:linear-gradient(0deg, rgba(141,188,189,1) 23%, rgba(253,187,45,1) 100%);
+    border-radius: 15px;
+         
+}
+.name{
+    color: rgb(97, 128, 158);
+    padding-left: 2rem ;
+    padding-top: 5rem ;
+}
+.id{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: antiquewhite;
+}
+.details{
+    display: flex;
+    flex-direction: row;
+}
+.contentButton{
+    position: absolute;
+    top:35%;
+    left:26%;
+}
+.contentCon{
+    position: absolute;
+    top: 101%;
+    
+}
+.boxCon{
+    position: absolute;
+    background-color: aqua;
+}
+.job1{
+    position: absolute;
+    width: 25%;
+    margin: 1rem 1rem;
+}
