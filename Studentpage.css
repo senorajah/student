@@ -1,0 +1,26 @@
+.studhead{
+    position:absolute;
+    z-index: 1;
+    top: 8%;
+    left: 8%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 400%;
+    color:rgb(232, 205, 69) ;
+    cursor: pointer;
+}
+.studhead:hover{  
+    transition: color 0.5s;
+    color:slategrey;
+}
+.items{
+   
+    position: absolute;
+    top: 30%;
+    left: 5%;
+}
+.bell{
+    position: absolute;
+    left: 93%;
+    top: 13%;
+}
